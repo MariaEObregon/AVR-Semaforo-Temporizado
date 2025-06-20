@@ -19,6 +19,8 @@ Botão pulsador para antecipar liberação de passagem dos pedestres:
 Se faltar mais do que 10s para o acionamento da cor amarela, reduzir para 10s.
 Se faltar menos do que 10s para o acionamento da cor amarela, manter o tempo restante
 
+O display de temporização deve exibir a contagem decrescente com o tempo restante para atravessia do pedestre, ou o tempo restante da cor vermelha no semáforo dos veículos.
+Em qualquer outra situação, o display não deve mostrar contagem, apenas uma indicação de que está funcionando, não podendo ficar totalmente apagado.
 
 🛠 Tecnologias e Componentes Utilizados:
 
