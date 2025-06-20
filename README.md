@@ -52,4 +52,4 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 | 🚦 Simulação no SimulIDE: |
 |:----------------------------------------------------------------:|
-| ![SemaforoPedestre](SemaforoPedestre.gif)                                   |
+| ![Semaforo-Temporizado](Semaforo-Temporizado.gif)                |
