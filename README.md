@@ -1,4 +1,4 @@
-# 🚦 Semáforo com faixa de Pedestre com AVR e Arduino
+# 🚦 Semáforo com faixa de Pedestre e Temporizador no AVR e Arduino
 Este projeto consiste no desenvolvimento de um circuito com programação em AVR para controlar um tráfego (semáforo), a ser instalado em um cruzamento de pedestre com temporizador. O funcionamento é o seguinte:
 
 *Comportaemnto do circuito:*
