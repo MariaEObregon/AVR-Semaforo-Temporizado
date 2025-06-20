@@ -39,14 +39,32 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 🗺️ Mapa de entradas e saídas:
 
+Semaforo:
+
 | Função  | Dispositivo       | Descrição               | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
 | :------ | :---------------- | :-----------------------| :----------------- | :-----------------|:-----|
-| Entrada | Botão             | Botão do pedestre (B)   | 8                  | 14                | PB0  |
-| Saída   | LED Verde         | Verde Semáforo (VDS)    | 9                  | 15                | PB1  |
-| Saída   | LED Amarelo       | Amarelo Semáforo (AS)   | 10                 | 16                | PB2  |
-| Saída   | LED Vermelho      | Vermelho Semáforo (VMS) | 11                 | 17                | PB3  |
-| Saída   | LED Verde         | Verde Pedestre    (VDP) | 12                 | 18                | PB4  |
-| Saída   | LED Vermelho      | Vermelho Pedestre (VMP) | 13                 | 19                | PB5  |
+| Entrada | Botão             | Botão do pedestre (B)   | A0                 | 23                | PC0  |
+| Saída   | LED Verde         | Verde Pedestre    (VDP) | A1                 | 24                | PC1  |
+| Saída   | LED Vermelho      | Vermelho Pedestre (VMP) | A2                 | 25                | PC2  |
+| Saída   | LED Verde         | Verde Semáforo (VDS)    | A3                 | 26                | PC3  |
+| Saída   | LED Amarelo       | Amarelo Semáforo (AS)   | A4                 | 27                | PC4  |
+| Saída   | LED Vermelho      | Vermelho Semáforo (VMS) | A5                 | 28                | PC5  |
+
+
+Display:
+
+| Função  | Dispositivo   | Descrição               | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
+| :------ | :------------ | :-----------------------| :----------------- | :-----------------|:-----|
+| Saída   | Pino a        | Segmento "a" do Display | 0                  | 2                 | PD0  |
+| Saída   | Pino b        | Segmento "b" do Display | 1                  | 3                 | PD1  |
+| Saída   | Pino c        | Segmento "c" do Display | 2                  | 4                 | PD2  |
+| Saída   | Pino d        | Segmento "d" do Display | 3                  | 5                 | PD3  |
+| Saída   | Pino e        | Segmento "e" do Display | 4                  | 6                 | PD4  |
+| Saída   | Pino f        | Segmento "f" do Display | 5                  | 11                | PD5  |
+| Saída   | Pino g        | Segmento "g" do Display | 6                  | 12                | PD6  |
+| Saída   | Pino p        | Segmento "p" do Display | 7                  | 13                | PD7  |
+| Saída   | Comum Unidade | Unidade do Display      | 8                  | 14                | PB0  |
+| Saída   | Comum Dezena  | Dezena do Display       | 9                  | 15                | PB1  |
 
 
 
