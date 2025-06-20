@@ -39,7 +39,7 @@ Este projeto faz parte de uma atividade acadêmica e tem como objetivo a aplica�
 
 🗺️ Mapa de entradas e saídas:
 
-Semaforo:
+Semáforo:
 
 | Função  | Dispositivo       | Descrição               | Pino (Arduino Uno) | Pino (ATmega328P) | PORT |
 | :------ | :---------------- | :-----------------------| :----------------- | :-----------------|:-----|
@@ -49,7 +49,6 @@ Semaforo:
 | Saída   | LED Verde         | Verde Semáforo (VDS)    | A3                 | 26                | PC3  |
 | Saída   | LED Amarelo       | Amarelo Semáforo (AS)   | A4                 | 27                | PC4  |
 | Saída   | LED Vermelho      | Vermelho Semáforo (VMS) | A5                 | 28                | PC5  |
-
 
 Display:
 
@@ -65,7 +64,6 @@ Display:
 | Saída   | Pino p        | Segmento "p" do Display | 7                  | 13                | PD7  |
 | Saída   | Comum Unidade | Unidade do Display      | 8                  | 14                | PB0  |
 | Saída   | Comum Dezena  | Dezena do Display       | 9                  | 15                | PB1  |
-
 
 
 | 🚦 Simulação no SimulIDE: |
